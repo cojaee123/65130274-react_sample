@@ -65,7 +65,7 @@ export default class report extends Component {
           <Container>
             <Navbar.Brand href="#">ค้นหาเลขไปรษณีย์</Navbar.Brand>
             <div style={{color:"#ffffff",fontSize:"25px"}}>
-              รหัสนักศึกษา  ชื่อ-นามสกุล 
+              65130274  ประพาฬศักดิ์ พินิจภาคย์ 
             </div>
           </Container>
         </Navbar>
